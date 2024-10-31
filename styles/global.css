@@ -4,6 +4,7 @@
 @import url('./offer.css');
 @import url('./selling.css');
 @import url('./ticket.css');
+@import url('./subscribe.css');
 
 * {
   margin: 0;
