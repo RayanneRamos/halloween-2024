@@ -4,6 +4,12 @@ header {
   left: 0;
   width: 100%;
   z-index: 100;
+  transition: background 0.3s ease;
+}
+
+header.header-action {
+  background: var(--body-color);
+  transition: background 0.3s ease;
 }
 
 .nav {
@@ -76,3 +82,4 @@ header {
 .move .line3 {
   transform: rotate(45deg) translate(-5px, -5px);
 }
+
