@@ -34,3 +34,9 @@ var swiper = new Swiper(".selling-content", {
     },
   },
 });
+
+let header = document.querySelector("header");
+
+window.addEventListener("scroll", () => {
+  header.classList.toggle("header-action", window.scrollY > 0);
+});
