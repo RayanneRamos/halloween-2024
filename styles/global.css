@@ -2,6 +2,7 @@
 @import url('./home.css');
 @import url('./deals.css');
 @import url('./offer.css');
+@import url('./selling.css');
 
 * {
   margin: 0;
