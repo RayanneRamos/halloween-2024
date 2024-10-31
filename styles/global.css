@@ -2,4 +2,38 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  scroll-behavior: smooth;
+  scroll-padding-top: 3rem;
+}
+
+:root {
+  --main-color: #ff7504;
+  --green-color: #a8ff52;
+  --text-color: #fff;
+  --text-color-alter: #1f003a;
+  --body-color: #1f043a;
+
+  --font-family-1: "Montserrat", sans-serif;
+  --font-family-2: "Jolly Lodger", system-ui;
+  --font-family-3: "Girassol", serif;
+}
+
+body {
+  font-family: var(--font-family-1);
+  font-size: 1rem;
+  font-weight: 400;
+  color: var(--text-color);
+  background: var(--body-color);
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 100%;
+}
+
+section {
+  padding: 3rem 0 2rem;
 }
