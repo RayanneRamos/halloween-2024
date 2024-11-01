@@ -47,3 +47,16 @@ img {
 section {
   padding: 3rem 0 2rem;
 }
+
+body::-webkit-scrollbar {
+  width: 4px;             
+}
+
+body::-webkit-scrollbar-track {
+  background: var(--text-color-alter);        
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: var(--main-color);
+  border-radius: 20px;
+}
