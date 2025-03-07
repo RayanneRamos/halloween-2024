@@ -16,7 +16,7 @@
 
 [Halloween2024](https://halloween-2024-opal.vercel.app/) Esta página temática de Halloween é um site de e-commerce criado para promover uma oferta especial com descontos de até 60% em produtos variados para o Halloween. Ela apresenta um design escuro e envolvente, com elementos de abóboras, árvores sombrias, teias de aranha e personagens assustadores para entrar no clima da festividade.
 
-## 🧪 Technologies
+## 🧪 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
